@@ -10,4 +10,6 @@
 
 
 
+# Aula 02
+- npm i @fastify/cookie
 
