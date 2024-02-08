@@ -13,3 +13,7 @@
 # Aula 02
 - npm i @fastify/cookie
 
+
+# Aula 03
+- npm i ioredis
+- npm i @fastify/websocket
